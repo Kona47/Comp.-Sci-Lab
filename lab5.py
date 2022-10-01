@@ -5,11 +5,16 @@
 ## Name: Kona Hudson
 ## Email: kdhfcx@umsystem.edu
 ##
-## PROBLEM : Describe the problem
+## PROBLEM : The library has updated their card numbers and need a program to check if the users numbers are correct with the new rules for the card numbers
 ##
 ## ALGORITHM : 
-##      1. Write out the algorithm
-## 
+##      1. define function that takes index 5 of the users card number and returns the school the user is from
+##      2. define function that takes index 6 of the users card number and returns the grade level the user is in
+##      3. define function that finds the index of a letter character based on where it is in the alphabet
+##      4. define function that calculates the last digit that should be in the card number.
+##      5. define function that checks all the requirements for the card number, returning either the problem the number has or that the number is correct, along with the school and grade the user is in.
+##      6. Ask the user for input which is their card number
+##      7. Use while loop so the user can continue to try card numbers until they finally hit enter to quit
 ## ERROR HANDLING:
 ##      Any Special Error handling to be noted.  Wager not less than 0. etc
 ##
